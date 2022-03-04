@@ -1,6 +1,5 @@
 # This is a Buffy-themed choose you own adventure game.
 
-# This is a Buffy-themed choose you own adventure game.
 
 import pyinputplus as pyip, os
 
