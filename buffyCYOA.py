@@ -1,5 +1,7 @@
 # This is a Buffy-themed choose you own adventure game.
 
+# This is a Buffy-themed choose you own adventure game.
+
 import pyinputplus as pyip, os
 
 
@@ -42,7 +44,6 @@ def filename_exist(folder):
             break
         number = number + 1
     return check_name
-
 
 
 path = 'C:\\buffyFiles'
@@ -408,7 +409,7 @@ while True:
                                     blank_line()
                                     print('Out of nowhere the undead geek starts laughing.')
                                     blank_line()
-                                    print('He rambles about some kind of destiny that will be fullfilled tomorrow.')
+                                    print('He rambles about some kind of destiny that will be fulfilled tomorrow.')
                                     blank_line()
                                     print('You do not want to risk him smelling you, so you back away faster'
                                           ' and eventually make your way outside.')
